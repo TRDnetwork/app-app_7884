@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="none"/>
+  <circle cx="200" cy="100" r="80" fill="#8B4513" opacity="0.2"/>
+  <circle cx="700" cy="300" r="100" fill="#6F4E37" opacity="0.2"/>
+  <path d="M0 300 Q200 200 400 300 T800 300 V 400 H 0 Z" fill="#E8DCC5"/>
+  <text x="400" y="200" font-family="Fraunces" font-size="60" font-weight="700" fill="#2F4F2F" text-anchor="middle" opacity="0.1">B&amp;B</text>
+</svg>
