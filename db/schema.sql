@@ -1,0 +1,3 @@
+-- No database required — static site with client-side contact form logging to console only.
+-- All content is hard-coded or will be managed via external headless CMS.
+-- Supabase features (auth, storage, realtime) are not used.
